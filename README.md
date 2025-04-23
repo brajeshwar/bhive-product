@@ -1,1 +1,1 @@
-# bhive-product
+# BHIVE - Product

@@ -1,3 +1,0 @@
-# Meetings
-
-This is meetings

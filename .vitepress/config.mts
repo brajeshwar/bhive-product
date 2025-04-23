@@ -26,8 +26,8 @@ export default defineConfig({
         text: 'Meetings',
         collapsed: false,
         items: [
-          { text: 'Overview', link: '/meetings' },
-          { text: 'Flow - Master', link: '/meetings/flow-00' },
+          { text: 'Introduction', link: '/meetings/introduction' },
+          { text: 'Flow - Main', link: '/meetings/flow-main' },
           { text: 'Actors', link: '/meetings/actors' },
           
           { text: 'App', link: '/meetings/app' },
@@ -51,7 +51,7 @@ export default defineConfig({
         text: 'Spaces',
         collapsed: true,
         items: [
-          { text: 'Overview', link: '/spaces' },
+          { text: 'Introduction', link: '/spaces/introduction' },
         ]
       }
     ]

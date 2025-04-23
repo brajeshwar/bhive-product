@@ -20,15 +20,5 @@ img {
 	max-width: 100%;
 	border: 0 none;
 	border-radius: var(--border-radius-mid);
-	border: 1px solid var(--color-gray-200);
-}
-
-ul li,
-ol li {
-	border-bottom: 1px solid var(--color-gray-100);
-}
-
-ul li:last-child,
-ol li:last-child {
-	border: 0 none;
+	border: 1px solid var(--color-gray-300);
 }

@@ -2,7 +2,7 @@
 
 The BHIVE Mobile App is the common entry funnel for Meetings, just as it is for Day-Passes.
 
-![Meetings](/assets/images/meetings/app/app-home.png)
+![Meetings](/images/meetings/app/app-home.png)
 
 ## Search & Filter Bar
 

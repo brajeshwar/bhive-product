@@ -1,3 +1,3 @@
 # Rooms Edit
 
-<a href="/assets/images/meetings/web/rooms-edit.png" target="_blank"><img src="/assets/images/meetings/web/rooms-edit.png" alt="" loading="lazy"></a>
+<a href="/images/meetings/web/rooms-edit.png" target="_blank"><img src="/images/meetings/web/rooms-edit.png" alt="" loading="lazy"></a>

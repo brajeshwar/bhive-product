@@ -16,9 +16,8 @@
 }
 
 img {
-	width: auto !important;
 	max-width: 100%;
-	border: 0 none;
+	height: auto;
 	border-radius: var(--border-radius-mid);
 	border: 1px solid var(--color-gray-300);
 }

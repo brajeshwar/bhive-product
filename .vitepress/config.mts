@@ -33,17 +33,20 @@ export default defineConfig({
           { text: 'App', link: '/meetings/app' },
 
           { text: 'Infinity', link: '/meetings/infinity' },
-          { text: 'User Details', link: '/meetings/user-details' },
-
-          { text: 'Booking - Listings', link: '/meetings/booking-listings' },
+          
+          { text: 'Bookings', link: '/meetings/bookings' },
           { text: 'Booking - Add/Edit', link: '/meetings/booking-add-edit' },
           { text: 'Booking - Calendar', link: '/meetings/booking-calendar' },
           { text: 'Booking - Cancel', link: '/meetings/booking-cancel' },
 
-          { text: 'Rooms - Listings', link: '/meetings/rooms-listings' },
+          { text: 'Rooms', link: '/meetings/rooms' },
           { text: 'Rooms - Add', link: '/meetings/rooms-add' },
           { text: 'Rooms - Edit', link: '/meetings/rooms-edit' },
           { text: 'Rooms - Edit-Disable', link: '/meetings/rooms-edit-disable' },
+
+          { text: 'User', link: '/meetings/user' },
+          { text: 'Pricing', link: '/meetings/pricing' },
+          { text: 'Notes', link: '/meetings/notes' },
           
         ]
       },
